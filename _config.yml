@@ -1,0 +1,13 @@
+title: 'ChatGPT Plus购买指南 2026：GPT会员有什么、怎么订阅、买几个月'
+description: 'ChatGPT Plus购买指南（2026-10）：会员包含什么、四档对比、Codex 每 5 小时额度、买几个月怎么选、免费版怎么升级；国内可在瑶瑶ai训练师商城 ¥129 开通（店主自营）'
+lang: zh-CN
+theme: jekyll-theme-cayman
+exclude:
+  - LICENSE
+
+# 正本是 GitHub 仓库页，网页版的 canonical 指回 github.com 地址（jekyll-seo-tag 读 canonical_url）
+defaults:
+  - scope:
+      path: ""
+    values:
+      canonical_url: "https://github.com/yaoyao-chat/plus"
